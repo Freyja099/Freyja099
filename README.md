@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aya</h1>  
 <br>
-<h3>🌱 I’m currently learning <span style="color: purple ">JAVA, C++, PHP</span>  </h3>
+<h3>🌱 I’m currently learning <span style="color: purple ">Spring Boot and React </span>  </h3>
 <h3> 📫 How to reach me <span style="font-weight:bold; color :rgb(127, 71, 169); ">ayazoujariidrissi@gmail.com</span>  </h3>
 <br>
 
