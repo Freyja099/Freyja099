@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>  
 <br>
 <h3>🌱 I’m currently learning <span style="color: purple ">Spring Boot and .net </span>  </h3>
-<h3> 📫 How to reach me <span style="font-weight:bold; color :rgb(127, 71, 169); ">ayazoujariidrissi@gmail.com</span>  </h3>
+
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freyja099" alt="freyja099" /></a> </p>  
